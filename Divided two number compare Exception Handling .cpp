@@ -1,8 +1,6 @@
 /**
-
-author:	©LoneWolfDON
-
-**/
+@DarkMotion
+*/
 /*
 30. Let, you have to divide two number, given by user. But divisor must be less than
 dividend. If not then consider it as error and handle it.
