@@ -1,3 +1,6 @@
+/**
+@DarkMotion
+*/
 ///Write a C++ program where a parent class provides an interface to the base class to implement a pure virtual function
 ///called getArea(), to find the area of Rectangle and Triangle for width = 5 and height = 7
 
