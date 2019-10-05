@@ -1,3 +1,6 @@
+/**
+@DarkMotion
+*/
 ///Suppose you have a Piggie Bank class with an initial amount of $50 as Initial_amount.
 ///i. Add 10 dollar while creating object of Piggie Bank class
 ///ii. Add 20 dollar using member function
